@@ -45,56 +45,43 @@ dataSet[dataSetVersion].options = [
       { name: "Miley Cirus", tooltip: "aka Hanna Montana", key: "MCir" },
       { name: "Mitski", tooltip: "Mitski", key: "Mits" },
       { name: "Lauryn Hill", tooltip: "Lauryn Hill", key: "LHil" },
-      { name: "Nirvana", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Novos Baianos", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Oasis", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Olivia Rodrigo", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "One Direction", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Paul McCartney", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Lady Gaga", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Phoebe Bridgers", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Pink Floyd", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Queen", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Radiohead", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "The Rolling Stones", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Rosalia", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Shawn Mendes", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Stevie Wonder", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Michael Jackson", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "The Strokes", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Sufjan Stevens", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Talking Heads", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Taylor Swift", tooltip: "18 - Kouryuudou", key: "UM" },
-      { name: "Tribalistas", tooltip: "18 - Kouryuudou", key: "UM" },
-
-
+      { name: "Nirvana", tooltip: "Kurt Cocaine", key: "Nirv" },
+      { name: "Novos Baianos", tooltip: "Os Maiores", key: "NBai" },
+      { name: "Oasis", tooltip: "Beatles Paraguaio", key: "Oasi" },
+      { name: "Olivia Rodrigo", tooltip: "Odrigo Rolivia", key: "ORod" },
+      { name: "One Direction", tooltip: "One Direction", key: "ODir" },
+      { name: "Paul McCartney", tooltip: "Sir Paul McCartney", key: "PMcC" },      
+      { name: "Phoebe Bridgers", tooltip: "Phoebe Bridgers", key: "PBri" },
+      { name: "Pink Floyd", tooltip: "Roger Waters against Bolsonaro", key: "PFlo" },
+      { name: "Queen", tooltip: "Rami Malek", key: "Quee" },
+      { name: "Radiohead", tooltip: "Tom Yorke genio", key: "Radi" },
+      { name: "The Rolling Stones", tooltip: "A melhor música deles é do Bob Dylan", key: "TRSt" },
+      { name: "Rosalia", tooltip: "Motomami", key: "Rosa" },
+      { name: "Shawn Mendes", tooltip: "Shawn Mendes", key: "SMen" },
+      { name: "Stevie Wonder", tooltip: "Stevie Wonder", key: "SWon" },
+      { name: "Michael Jackson", tooltip: "AU", key: "MJac" },
+      { name: "The Strokes", tooltip: "The Strokes", key: "TStr" },
+      { name: "Sufjan Stevens", tooltip: "Sufjan Stevens", key: "SSte" },
+      { name: "Talking Heads", tooltip: "Letting the days go byyy!!!", key: "THea" },
+      { name: "Taylor Swift", tooltip: "Bololo haha", key: "TSwi" },
+      { name: "Tribalistas", tooltip: "OMG Hi Marisa Monte (casa comigo)", key: "Trib" },
     ]
   },  
 ];
 
 dataSet[dataSetVersion].characterData = [
   {
-    name: "Hakurei Reimu",
-    img: "kBe1YfO.png",
+    name: "19 - Adele",
+    img: "PcIZ8Zb.jpg",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
-      stage: ["st4"]
+      artists: ["Adel"]      
     }
   },
   {
-    name: "Kirisame Marisa",
+    name: "21 - Adele",
     img: "kBe1YfO.png",
     opts: {
-      series: [ "book", "EoSD", "PCB", "IaMP", "IN", "PoFV", "StB", "SWR", "MoF", "SA", "UFO", "soku", "DS", "GFW", "TD", "HM", "DDC", "ISC", "ULiL", "LoLK", "AoCF", "HSiFS", "VD", "WBaWC", "UM" ],
-      stage: ["st4", "ex"]
-    }
-  },
-  {
-    name: "Rumia",
-    img: "kBe1YfO.png",
-    opts: {
-      series: ["book", "EoSD", "StB", "HM"],
-      stage: ["st1"]
+      artists: ["Adel"]      
     }
   },
 ];
