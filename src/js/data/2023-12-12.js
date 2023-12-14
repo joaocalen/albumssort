@@ -84,4 +84,39 @@ dataSet[dataSetVersion].characterData = [
       artists: ["Adel"]      
     }
   },
+  {
+    name: "25 - Adele",
+    img: "QvHL4tR.png",
+    opts: {
+      artists: ["Adel"]      
+    }
+  },
+  {
+    name: "30 - Adele",
+    img: "T0iURaP.png",
+    opts: {
+      artists: ["Adel"]      
+    }
+  },
+  {
+    name: "Jagged Little Pill - Alanis Morissette",
+    img: "UlgY46X.jpg",
+    opts: {
+      artists: ["Alan"]      
+    }
+  },
+  {
+    name: "Songs In A Minor - Alicia Keys",
+    img: "wVMgKB6.jpg",
+    opts: {
+      artists: ["Alic"]      
+    }
+  },
+  {
+    name: "The Diary of Alicia Keys - Alicia Keys",
+    img: "TuMOKpy.jpg",
+    opts: {
+      artists: ["Alic"]      
+    }
+  },
 ];
