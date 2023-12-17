@@ -118,7 +118,7 @@ body {
   cursor: pointer;
 }
 
-.sorter > .text {
+/* .sorter > .text {
   width: 180px;
   height: 90px;
   display: none;
@@ -130,6 +130,25 @@ body {
   text-align: center;
   font-size: 0.8em;
   line-height: 1.5em;
+} */
+
+.sorter > .text {
+  width: 180px;
+  height: 90px;
+  display: block; /* Ensure it's not set to none */
+  overflow: visible; /* Allow text to be visible outside the box if needed */
+  box-sizing: border-box; /* Include padding and borders in the element's size */
+  /* No text-overflow property */
+}
+
+.sorter > .text > p {
+  margin: 0.8em 5px; /* Adjust if necessary */
+  width: calc(100% - 10px); /* Ensure this calculates correctly */  
+  text-align: center;
+  font-size: 0.8em; /* Adjust if necessary */
+  line-height: 1.5em;
+  overflow: visible; /* Allow text to be visible */
+  /* No text-overflow property */
 }
 
 .sorter > .left {
