@@ -380,7 +380,7 @@ dataSet[dataSetVersion].characterData = [
 },
 {
   name: "Crash - Charli XCX",
-  img: "n4wFdje.jpg",
+  img: "j9hbVzk.jpg",
   opts: {
     artists: ["CXCX"]
   }
